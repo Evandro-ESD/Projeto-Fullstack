@@ -24,7 +24,7 @@ async function buscarTodos() {
         div.appendChild(nome)
         div.appendChild(preco)
         div.appendChild(imagem)
-        div.appendChild(link)
+        div.appendChild(imagem)
 
         container.appendChild(div)
     })
